@@ -7,6 +7,8 @@ Collecting and analyzing product reviews from various sources.
 Categorizing reviews into positive, negative, and neutral sentiments.
 Offering personalized product recommendations based on user preferences.
 Featuring a chatbot for real-time support and product discovery.
+![image](https://github.com/user-attachments/assets/d053c72e-d0f9-4f6f-a208-685eab139471)
+
 ![Screenshot 2025-02-06 135322](https://github.com/user-attachments/assets/a11bb0f5-b928-4a02-bf05-6cb531885e31)
 Enhancing user satisfaction with comprehensive product insights.
 
